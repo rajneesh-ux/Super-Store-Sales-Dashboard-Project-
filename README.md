@@ -2,7 +2,7 @@
 
 An interactive Power BI project focused on analyzing SuperStore sales, profit, and order performance. The dashboard explores business performance across product categories, regions, and time periods using data visualization and KPI analysis.
 
-![SuperStore Sales Dashboard](./Dashboard%20Image.png)
+![SuperStore Sales Dashboard](./dashboard.png)
 ---
 
 ## 📌 Project Overview
